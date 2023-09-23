@@ -6,6 +6,10 @@
     font-family: roboto;
 }
 
+#logo{
+    background-color: white;
+}
+
 nav {
     display: flex;
     background-color: white;
@@ -24,7 +28,7 @@ nav {
 
 .vertial-line {
     height: 30px;
-    border-left: 1px solid black;
+    border-left: 2px solid black;
     margin-inline: 10px;
 }
 
